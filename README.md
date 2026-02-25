@@ -43,12 +43,11 @@ The program analyzes the password based on:
     * Digits
     * Special characters
 
-A score is calculated and the password is classified accordingly.
-
 ---
 
 ## 📂 Project Structure
-password_checker.py
+
+password_strength_checker.py
 
 README.md
 
